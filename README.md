@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Welcome&reversal=false&textBg=false"/>
+</p>
 <h1 align="center">Hi 👋, I'm Aleksandr</h1>
 <h3 align="center">An ML engineer intrested in LLMs integration</h3>
 
