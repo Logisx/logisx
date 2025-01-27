@@ -1,14 +1,17 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=Dive%20In&reversal=false&textBg=false&fontColor=F7F7F7&stroke=000000&strokeWidth=2"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=160&color=gradient&text=Dive%20In&reversal=false&textBg=false&fontColor=F7F7F7&stroke=0D1117&strokeWidth=2"/>
 </p>
-<h1 align="center">Hi 👋, I'm Aleksandr</h1>
-<h3 align="center">ML Engineer | LLM Enthusiast | Coding Geek </h3>
+<h2 align="center">ML Engineering | Data Analysis | GenAI </h3>
+<p>
+  Hi 👋, I'm Aleksandr
 
-- 🔭 I’m currently working on **a travel advisor app** that uses LangChain for seamless itinerary planning.  
-- 🌱 I’m exploring ways to integrate **LLMs with real-world applications**.  
-- 💡 When I’m not coding, you’ll find me **playing Dungeons & Dragons, traveling, or diving into board games.**
-- 📫 Reach me at **aleksandr.shishkov.work@gmail.com** or <a href="https://linkedin.com/in/www.linkedin.com/in/aleksandrshishkov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/aleksandrshishkov" height="30" width="30" /></a>
-- 📄 To know more, [check my CV](https://drive.google.com/file/d/1T5cApiY6_RvRrcqh9r2FuyrJ5uWlP55v/view?usp=drive_link)
+  - 🔭 I’m currently working on **a travel advisor app** that uses LangChain for seamless itinerary planning.  
+  - 🛠️ My recent projects include **fine-tuning LLMs**, developing end-to-end **ML pipelines**, and coding **chatbots**.  
+  - 💡  When I’m not coding, you’ll find me **playing Dungeons & Dragons, traveling, or laying out board games.**
+  - 📫 Reach me at **aleksandr.shishkov.work@gmail.com** or [**LinkedIn**](https://linkedin.com/in/www.linkedin.com/in/aleksandrshishkov) 
+  - 📄 To know more, [check my CV](https://drive.google.com/file/d/1T5cApiY6_RvRrcqh9r2FuyrJ5uWlP55v/view?usp=drive_link)
+
+</p>
 
 <h3 align="left">My Toolkit:</h3>
 <p align="left"> 
@@ -69,14 +72,11 @@
     <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
     </a> 
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-    </a> 
     <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
     </a> 
     <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> 
+        <img src="https://eduramp.in/wp-content/uploads/2024/01/Flask.png" alt="flask" width="40" height="40"/> 
     </a> 
     <a href="https://heroku.com" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> 
@@ -90,5 +90,8 @@
 </p>
 
 <h3 align="left">
-  Connect with me at <a href="https://linkedin.com/in/www.linkedin.com/in/aleksandrshishkov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/aleksandrshishkov" height="30" width="40" /></a>
+  Connect with me:
 </h3>
+<p align="left"> 
+  <a href="https://linkedin.com/in/www.linkedin.com/in/aleksandrshishkov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/aleksandrshishkov" height="30" width="40" /></a>
+</p>
