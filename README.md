@@ -1,7 +1,8 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=160&color=gradient&text=Dive%20In&reversal=false&textBg=false&fontColor=F7F7F7&stroke=0D1117&strokeWidth=2"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=160&&color=0:0000FF,100:a82da8&text=Dive%20In&reversal=false&textBg=false&fontColor=E7E7E7"/>
 </p>
-<h2 align="center">ML Engineering | Data Analysis | GenAI </h3>
+<h1 align="center">Hi 👋, I'm Aleksandr</h1>
+<h3 align="center">ML Engineer | Data Science Researcher | Developer </h3>
 <p>
   Hi 👋, I'm Aleksandr
 
@@ -26,6 +27,9 @@
     </a> 
     <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
         <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
+    </a> 
+    <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://eduramp.in/wp-content/uploads/2024/01/Flask.png" alt="flask" width="40" height="40"/> 
     </a> 
     <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
@@ -75,9 +79,6 @@
     <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
     </a> 
-    <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://eduramp.in/wp-content/uploads/2024/01/Flask.png" alt="flask" width="40" height="40"/> 
-    </a> 
     <a href="https://heroku.com" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> 
     </a> 
@@ -95,3 +96,7 @@
 <p align="left"> 
   <a href="https://linkedin.com/in/www.linkedin.com/in/aleksandrshishkov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/aleksandrshishkov" height="30" width="40" /></a>
 </p>
+
+<h3 align="left">
+  Check my pinned projects below:
+</h3>
