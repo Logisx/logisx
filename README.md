@@ -4,8 +4,7 @@
 <h1 align="center">Hi 👋, I'm Aleksandr</h1>
 <h3 align="center">ML Engineer | Data Science Researcher | Developer </h3>
 <p>
-  Hi 👋, I'm Aleksandr
-
+  
   - 🔭 I’m currently working on **a travel advisor app** that uses LangChain for seamless itinerary planning.  
   - 🛠️ My recent projects include **fine-tuning LLMs**, developing end-to-end **ML pipelines**, and coding **chatbots**.  
   - 💡  When I’m not coding, you’ll find me **playing Dungeons & Dragons, traveling, or laying out board games.**
