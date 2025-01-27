@@ -97,5 +97,5 @@
 </p>
 
 <h3 align="left">
-  Check my pinned projects below:
+  Check my pinned projects below 👇
 </h3>
