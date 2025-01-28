@@ -5,9 +5,9 @@
 <h3 align="center">ML Engineer | Data Science Researcher | Developer </h3>
 <p>
   
-  - 🔭 I’m currently working on **a travel advisor app** that uses LangChain for seamless itinerary planning.  
-  - 🛠️ My recent projects include **fine-tuning LLMs**, developing end-to-end **ML pipelines**, and coding **chatbots**.  
-  - 💡  When I’m not coding, you’ll find me **playing Dungeons & Dragons, traveling, or laying out board games.**
+  - 🔭 I’m currently working on **a travel advisor app** that uses LangChain for seamless itinerary planning  
+  - 🛠️ My recent projects include **fine-tuning LLMs**, developing end-to-end **ML pipelines**, and coding **chatbots**  
+  - 💡  When I’m not coding, you’ll find me **playing Dungeons & Dragons, traveling, or laying out board games**
   - 📫 Reach me at **aleksandr.shishkov.work@gmail.com** or [**LinkedIn**](https://linkedin.com/in/www.linkedin.com/in/aleksandrshishkov) 
   - 📄 To know more, [check my CV](https://drive.google.com/file/d/1T5cApiY6_RvRrcqh9r2FuyrJ5uWlP55v/view?usp=drive_link)
 
